@@ -1,1 +1,1 @@
-Simple randomizer app that choose movie to watch
+Simple randomizer app that chooses what movie to watch
